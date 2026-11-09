@@ -14,7 +14,8 @@ review them on your phone. This policy explains what the app handles, where it i
 
 ## The short version
 
-- Your migraine diary stays **on your own watch and phone**. We do not run servers, and we never receive your data.
+- Your migraine diary stays **on your own watch and phone**. We do not run servers. We only receive something if you
+  choose to email it to us, such as the optional anonymous stats described below.
 - The app has **no accounts, no ads, no analytics and no tracking**. Neither the watch app nor the phone app requests
   internet access.
 - If you allow it, the phone app **reads** your sleep and heart rate from Health Connect to show context next to each
@@ -65,6 +66,19 @@ You can withdraw access at any time in **Settings → Health Connect → App per
 The app does not share your data. When **you** tap **Export**, the app creates a CSV file of your attacks
 (including sleep and heart-rate values, if shown) and opens Android's share sheet. Where that file goes, for example to
 your doctor by email, is your choice. Once shared, it is handled by the app or person you sent it to.
+
+## Sharing anonymous stats (optional)
+
+The phone app has a **Share my anonymous stats** button. It first shows you the exact text, then opens your
+own email app with a pre-filled message to shubhamdraveriya@gmail.com. Nothing is sent unless you tap send in your
+email app. The message contains only counts: the app version, number of attacks (in total and in the last 30 days),
+number of days with attacks, days since your first attack, whether a second attack was logged within 30 days of the
+first, how many attacks have a severity or medication logged, and how many times the "Pro" button was tapped. It does
+**not** contain dates, times, notes, triggers, medication names or any health data.
+
+We use these counts only to decide whether Migraine Tap is worth developing further. Your email address and the
+message are kept in the developer's mailbox and are not shared or used for marketing. To have a message deleted,
+email us.
 
 ## Storage, security and retention
 
