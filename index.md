@@ -80,6 +80,15 @@ We use these counts only to decide whether Migraine Tap is worth developing furt
 message are kept in the developer's mailbox and are not shared or used for marketing. To have a message deleted,
 email us.
 
+## Deleting your data
+
+You can delete everything Migraine Tap holds about you at any time:
+
+- **On the watch and phone:** uninstall the app, or open **Settings → Apps → Migraine Tap → Storage → Clear storage** on each device. This permanently deletes the attack log, notes and medication names on that device.
+- **Health Connect data:** the app doesn't store any Health Connect data itself. To stop access, open **Settings → Health Connect → App permissions → Migraine Tap** and turn off sleep and heart rate.
+- **Anonymous stats you emailed us:** email shubhamdraveriya@gmail.com with the subject "Delete my stats" and include the address you sent from. We will delete those messages.
+
+Your data is never held on our servers, so there is nothing else to delete.
 ## Storage, security and retention
 
 - Data is stored in the app's private storage on your watch and phone, which other apps can't read.
