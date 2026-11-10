@@ -16,7 +16,7 @@ review them on your phone. This policy explains what the app handles, where it i
 
 - Your migraine diary stays **on your own watch and phone**. We do not run servers. We only receive something if you
   choose to email it to us, such as the optional anonymous stats described below.
-- The app has **no accounts, no ads, no analytics and no tracking**. Neither the watch app nor the phone app requests
+- The app has **no accounts, no ads, no analytics SDKs and no tracking**. The only usage data we receive is the optional anonymous stats you choose to email us (see below). Neither the watch app nor the phone app requests
   internet access.
 - If you allow it, the phone app **reads** your sleep and heart rate from Health Connect to show context next to each
   attack. It never writes to Health Connect.
@@ -30,7 +30,6 @@ review them on your phone. This policy explains what the app handles, where it i
 | Triggers and notes you add | You, on the phone | On the phone | To give your history context |
 | Medication list (up to 4 names) | You, on the watch | On the watch | One-tap medication logging |
 | Sleep sessions and heart-rate readings around each attack | Health Connect, **only with your permission** | Read when you open or refresh an attack; not stored by us elsewhere | To show sleep the night before and average heart rate during an attack |
-| Number of taps on the "Pro" button | The app | On the phone, and in the CSV footer | To gauge interest in a future paid version |
 
 The app does not collect your name, email address, phone number, contacts, precise location or advertising ID.
 
@@ -73,7 +72,7 @@ The phone app has a **Share my anonymous stats** button. It first shows you the 
 own email app with a pre-filled message to shubhamdraveriya@gmail.com. Nothing is sent unless you tap send in your
 email app. The message contains only counts: the app version, number of attacks (in total and in the last 30 days),
 number of days with attacks, days since your first attack, whether a second attack was logged within 30 days of the
-first, how many attacks have a severity or medication logged, and how many times the "Pro" button was tapped. It does
+first, and how many attacks have a severity or medication logged. It does
 **not** contain dates, times, notes, triggers, medication names or any health data.
 
 We use these counts only to decide whether Migraine Tap is worth developing further. Your email address and the
